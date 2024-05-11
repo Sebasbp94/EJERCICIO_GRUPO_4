@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ltE5yb-c_0LrZbACh6k7PUJkIOXXAV9b
 """
 
-!pip install streamlit langchain openai tiktoken
+pip install streamlit langchain openai tiktoken
 
 openai_api_key = "sk-proj-EiHmWvB15KBq4Lhg9dSoT3BlbkFJEXlhbXAIWSABMYtngSa6"
 
